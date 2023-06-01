@@ -1,16 +1,48 @@
-### Hi there 👋
+# Welcome to my Github 🌊
 
-<!--
-**GlennVodra/GlennVodra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I am studying Computer Engeneering at Rochester Institute of Technology \
+💻 I enjoy designing hardware and writing low level code
+## Current Projects
+### 🎯 [MIPS in System Verilog](https://github.com/GlennVodra/32-Bit-MipsProcessor)
+##### Goals
+* Translate VHDL to SV
+* Expand the Mips Design
+* Comprehensive Verification
 
-Here are some ideas to get you started:
+### 🕹 [C Game](https://github.com/GlennVodra/Tutorial-Game)
+##### Goals
+* Develope C Fluency
+* Explore Win32 API
+* Strengthen Debugging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Intrest
+* X86 Assembly
+* CUDA/Linear Algebra
+* VLSI/Computer Architecture
+
+## Completed Projects
+### `Term Project for Digital System Design II - CMPE 260`
+💾 [MIPS in VHDL](https://github.com/GlennVodra/32-Bit-MipsProcessor)
+* Five Stage Piplined Processor
+* Vivado and Modelsim Verification and Synthesis 
+* FPGA Targeting and Constraints 
+### `Final Project for Assembly and Embedded Systems - CMPE 250`
+💫 [Master Mind in ARM Assembly](https://github.com/GlennVodra/MasterMind)
+* Interupt Driven Programming
+* UART Communication
+* ARM Cortex M0+
+### `Summer Personal Project`
+🤡 [Discord Bot - Reaction Ronald](https://github.com/GlennVodra/Reaction-Ronald)
+* JDA and Gson
+* Multi-Server Support
+* He's a Clown
+### `Term Project for Intro to Software Engennering - SWEN 261`
+👟 [FootWare - Shoe EStore](https://github.com/GlennVodra/FootWare)
+* Full Stack Development
+* Git, Trello, Scrum
+* Spring and Angular
+\
+\
+\
+\
+I also produce musi[c](https://www.youtube.com/@darkrover)
