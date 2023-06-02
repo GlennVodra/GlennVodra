@@ -45,4 +45,5 @@
 \
 \
 \
+Connect with me on LinkedIn [here](https://www.linkedin.com/in/glennvodra/)\
 I also produce musi[c](https://www.youtube.com/@darkrover)
