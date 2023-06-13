@@ -16,7 +16,7 @@
 * Strengthen Debugging
 
 ## Areas of Intrest
-* X86 Assembly
+* [X86 Assembly](https://github.com/GlennVodra/Learning-x86)
 * CUDA/Linear Algebra
 * VLSI/Computer Architecture
 
