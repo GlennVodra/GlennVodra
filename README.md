@@ -16,7 +16,7 @@
 * Strengthen Debugging
 
 ## Areas of Intrest
-* [X86 Assembly](https://github.com/GlennVodra/Learning-Modern-Assembly)
+* [Learning-Modern-Assembly](https://github.com/GlennVodra/Learning-Modern-Assembly)
 * CUDA/Linear Algebra
 * VLSI/Computer Architecture
 
