@@ -15,6 +15,12 @@
 * Explore Win32 API
 * Strengthen Debugging
 
+### 🌱 [OS Development](https://github.com/GlennVodra/OS-Development)
+##### Goals
+* Develope C++ Fluency
+* Manage Hardware Resorces/Devices
+* Establish Networking Capabilities
+
 ## Areas of Intrest
 * [Learning-Modern-Assembly](https://github.com/GlennVodra/Learning-Modern-Assembly)
 * CUDA/Linear Algebra
