@@ -56,5 +56,6 @@
 \
 \
 \
-Connect with me on LinkedIn [here](https://www.linkedin.com/in/glennvodra/)\
+
+![LinkedIN](https://github.com/GlennVodra/GlennVodra/assets/37476686/38db43f9-951a-4672-97bc-6b495478d1a3) Connect with me on LinkedIn [here](https://www.linkedin.com/in/glennvodra/)\
 I also produce music [here](https://www.youtube.com/@darkrover)
