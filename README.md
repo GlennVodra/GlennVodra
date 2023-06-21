@@ -59,4 +59,4 @@
 ![LinkedINSmall](https://github.com/GlennVodra/GlennVodra/assets/37476686/5f6f1a4b-1f9a-4957-bc73-cf9f669e1de1)
 Connect with me on [LinkedIn](https://www.linkedin.com/in/glennvodra/)\
 ![YoutubeSmall](https://github.com/GlennVodra/GlennVodra/assets/37476686/9b18746d-89ee-409c-9a7f-0ec336a937e1)
-I also produce music [here](https://www.youtube.com/@darkrover)
+I also produce music [Youtube](https://www.youtube.com/@darkrover)
