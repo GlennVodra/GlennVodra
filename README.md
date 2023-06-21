@@ -1,7 +1,7 @@
 # Welcome to my Github 🌊
 
-🚀 I am studying Computer Engeneering at Rochester Institute of Technology \
-💻 I enjoy designing hardware and writing low level code
+🚀 I am studying Computer Engineering at Rochester Institute of Technology \
+💻 I enjoy designing hardware and writing low-level code
 ## Current Projects
 ### 🎯 [MIPS in System Verilog](https://github.com/GlennVodra/32-Bit-MipsProcessor)
 ##### Goals
@@ -11,14 +11,14 @@
 
 ### 🕹 [C Game](https://github.com/GlennVodra/Tutorial-Game)
 ##### Goals
-* Develope C Fluency
+* Develop C Fluency
 * Explore Win32 API
 * Strengthen Debugging
 
 ### 🌱 [OS Development](https://github.com/GlennVodra/OS-Development)
 ##### Goals
-* Develope C++ Fluency
-* Manage Hardware Resorces/Devices
+* Develop C++ Fluency
+* Manage Hardware Resources/Devices
 * Establish Networking Capabilities
 
 ## Areas of Intrest
@@ -29,12 +29,17 @@
 ## Completed Projects
 ### `Term Project for Digital System Design II - CMPE 260`
 💾 [MIPS in VHDL](https://github.com/GlennVodra/32-Bit-MipsProcessor)
-* Five Stage Piplined Processor
+* Five-Stage Pipelined Processor
 * Vivado and Modelsim Verification and Synthesis 
-* FPGA Targeting and Constraints 
+* FPGA Targeting and Constraints
+### `Project for Computer Architecture - CMPE 350`
+💾 [16-Bit StockPile ISA](https://github.com/GlennVodra/StockPile)
+* Define ISA and Code Examples
+* Hardware Implementation 
+* Team Project
 ### `Final Project for Assembly and Embedded Systems - CMPE 250`
 💫 [Master Mind in ARM Assembly](https://github.com/GlennVodra/MasterMind)
-* Interupt Driven Programming
+* Interrupt Driven Programming
 * UART Communication
 * ARM Cortex M0+
 ### `Summer Personal Project`
@@ -42,7 +47,7 @@
 * JDA and Gson
 * Multi-Server Support
 * He's a Clown
-### `Term Project for Intro to Software Engennering - SWEN 261`
+### `Term Project for Intro to Software Engineering - SWEN 261`
 👟 [FootWare - Shoe EStore](https://github.com/GlennVodra/FootWare)
 * Full Stack Development
 * Git, Trello, Scrum
