@@ -52,6 +52,8 @@
 * Full Stack Development
 * Git, Trello, Scrum
 * Spring and Angular
+### `Fun Video`
+![YoutubeSmall](https://github.com/GlennVodra/GlennVodra/assets/37476686/9b18746d-89ee-409c-9a7f-0ec336a937e1) [Logic In Geometry Dash](https://youtu.be/1aHnfme673k)
 \
 \
 \
