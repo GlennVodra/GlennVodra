@@ -33,7 +33,7 @@
 * Vivado and Modelsim Verification and Synthesis 
 * FPGA Targeting and Constraints
 ### `Project for Computer Architecture - CMPE 350`
-💾 [16-Bit StockPile ISA](https://github.com/GlennVodra/StockPile)
+📜 [16-Bit StockPile ISA](https://github.com/GlennVodra/StockPile)
 * Define ISA and Code Examples
 * Hardware Implementation 
 * Team Project
