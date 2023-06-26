@@ -24,7 +24,7 @@
 ## Areas of Intrest
 * [Learning-Modern-Assembly](https://github.com/GlennVodra/Learning-Modern-Assembly)
 * CUDA/Linear Algebra
-* VLSI/Computer Architecture
+* VLSI/Computer Architecture/HLS
 
 ## Completed Projects
 ### `Term Project for Digital System Design II - CMPE 260`
