@@ -6,7 +6,7 @@
 ### 🎯 [MIPS in System Verilog](https://github.com/GlennVodra/32-Bit-MipsProcessor)
 ##### Goals
 * Translate VHDL to SV ✅
-* Expand the Mips Design
+* Expand the Mips Design ⏳
 * Comprehensive Verification
 
 ### 🕹 [C Game](https://github.com/GlennVodra/Tutorial-Game)
