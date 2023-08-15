@@ -3,18 +3,6 @@
 🚀 I am studying Computer Engineering at Rochester Institute of Technology \
 💻 I enjoy designing hardware and writing low-level code
 ## Current Projects
-### 🎯 [MIPS in System Verilog](https://github.com/GlennVodra/32-Bit-MipsProcessor)
-##### Goals
-* Translate VHDL to SV ✅
-* Expand the Mips Design ⏳
-* Comprehensive Verification
-
-### 🕹 [C Game](https://github.com/GlennVodra/Tutorial-Game)
-##### Goals
-* Develop C Fluency
-* Explore Win32 API
-* Strengthen Debugging
-
 ### 🌱 [OS Development](https://github.com/GlennVodra/OS-Development)
 ##### Goals
 * Develop C++ Fluency
@@ -27,6 +15,16 @@
 * VLSI/Computer Architecture/HLS
 
 ## Completed Projects
+### `MIPS in SystemVerilog - Summer 2023`
+🎯 [MIPS in System Verilog](https://github.com/GlennVodra/32-Bit-MipsProcessor)
+* Translate VHDL to SV
+* [Explore concepts unique to SV](https://github.com/GlennVodra/OOP-System-Verilog)
+* Try different development and debugging environments   
+### `Win32 Game Introduction - Summer 2023`
+🕹 [C Game](https://github.com/GlennVodra/Tutorial-Game)
+* Explore Win32 API and basic C 
+* Drawing Bitmap and background at 60 fps
+* Strengthen Debugging
 ### `Term Project for Digital System Design II - CMPE 260`
 💾 [MIPS in VHDL](https://github.com/GlennVodra/32-Bit-MipsProcessor)
 * Five-Stage Pipelined Processor
