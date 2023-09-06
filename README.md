@@ -1,7 +1,8 @@
 # Welcome to my Github 🌊
 
 🚀 I am studying Computer Engineering at Rochester Institute of Technology \
-💻 I enjoy designing hardware and writing low-level code
+💻 I enjoy designing hardware and writing low-level code \
+For access to any projects associated with a course (including SV MIPS), please feel free to get in touch with me.
 ## Current Projects
 ### 🌱 [OS Development](https://github.com/GlennVodra/OS-Development)
 ##### Goals
